@@ -1,0 +1,22 @@
+h1 {
+    color: purple
+   }
+ 
+ img {
+    width: 400px;
+ }
+ #thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: yellow;
+    padding: 50px;
+    border: 10px solid blue;
+    
+
+ }
+ #SpanId {
+    font-size: 18px;
+    margin: 50px;
+
+
+ }
